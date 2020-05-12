@@ -16,10 +16,10 @@ namespace Pattern
     {
         static void Main(string[] args)
         {
-            {
-                new _03Builder().Run();
-                new _04Prototype().Run();
-            }
+System.Console.WriteLine("修改一下试试");
+            new _03Builder().Run();
+            new _04Prototype().Run();
+
         }
     }
 }
