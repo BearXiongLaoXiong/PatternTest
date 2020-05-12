@@ -1,0 +1,17 @@
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\obj\Debug\netcoreapp3.1\Pattern.csprojAssemblyReference.cache
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\obj\Debug\netcoreapp3.1\Pattern.csproj.CoreCompileInputs.cache
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfoInputs.cache
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfo.cs
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\bin\Debug\netcoreapp3.1\Pattern.exe
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\bin\Debug\netcoreapp3.1\Pattern.deps.json
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.json
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.dev.json
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\bin\Debug\netcoreapp3.1\Pattern.dll
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\bin\Debug\netcoreapp3.1\Pattern.pdb
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\bin\Debug\netcoreapp3.1\testclasslib.dll
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\bin\Debug\netcoreapp3.1\testclasslib.pdb
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\obj\Debug\netcoreapp3.1\Pattern.csproj.CopyComplete
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\obj\Debug\netcoreapp3.1\Pattern.dll
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\obj\Debug\netcoreapp3.1\Pattern.pdb
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\Pattern\obj\Debug\netcoreapp3.1\Pattern.genruntimeconfig.cache

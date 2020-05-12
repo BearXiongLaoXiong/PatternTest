@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J60MBvLjACDZjfrzU3qe/BVPlvLwgR9+5gitnLwnolrJepKxmci8ewbzstMgCsnh69lwZ3xhfoSsdUYp8YN7oA==",
+  "success": true,
+  "projectFilePath": "C:\\Xiong Program\\CSharpObject\\学习项目\\23种常用设计模式VsCode\\testclasslib\\testclasslib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sh179\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sh179\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

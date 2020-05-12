@@ -1,0 +1,17 @@
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\bin\Debug\netcoreapp3.1\01.工厂.exe
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\bin\Debug\netcoreapp3.1\01.工厂.deps.json
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\bin\Debug\netcoreapp3.1\01.工厂.runtimeconfig.json
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\bin\Debug\netcoreapp3.1\01.工厂.runtimeconfig.dev.json
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\bin\Debug\netcoreapp3.1\01.工厂.dll
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\bin\Debug\netcoreapp3.1\01.工厂.pdb
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\obj\Debug\netcoreapp3.1\01.工厂.csprojAssemblyReference.cache
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\obj\Debug\netcoreapp3.1\01.工厂.csproj.CoreCompileInputs.cache
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\obj\Debug\netcoreapp3.1\01.工厂.AssemblyInfoInputs.cache
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\obj\Debug\netcoreapp3.1\01.工厂.AssemblyInfo.cs
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\obj\Debug\netcoreapp3.1\01.工厂.dll
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\obj\Debug\netcoreapp3.1\01.工厂.pdb
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\obj\Debug\netcoreapp3.1\01.工厂.genruntimeconfig.cache
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\bin\Debug\netcoreapp3.1\testclasslib.dll
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\bin\Debug\netcoreapp3.1\testclasslib.pdb
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\obj\Debug\netcoreapp3.1\01.工厂.csproj.CopyComplete
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\01.工厂\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

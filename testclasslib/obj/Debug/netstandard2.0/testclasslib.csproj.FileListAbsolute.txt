@@ -1,0 +1,9 @@
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\testclasslib\bin\Debug\netstandard2.0\testclasslib.deps.json
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\testclasslib\bin\Debug\netstandard2.0\testclasslib.dll
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\testclasslib\bin\Debug\netstandard2.0\testclasslib.pdb
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\testclasslib\obj\Debug\netstandard2.0\testclasslib.csprojAssemblyReference.cache
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\testclasslib\obj\Debug\netstandard2.0\testclasslib.csproj.CoreCompileInputs.cache
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\testclasslib\obj\Debug\netstandard2.0\testclasslib.AssemblyInfoInputs.cache
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\testclasslib\obj\Debug\netstandard2.0\testclasslib.AssemblyInfo.cs
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\testclasslib\obj\Debug\netstandard2.0\testclasslib.dll
+C:\Xiong Program\CSharpObject\学习项目\23种常用设计模式VsCode\testclasslib\obj\Debug\netstandard2.0\testclasslib.pdb
