@@ -16,7 +16,8 @@ namespace Pattern
     {
         static void Main(string[] args)
         {
-System.Console.WriteLine("修改一下试试");
+            System.Console.WriteLine("修改一下试试");
+            System.Console.WriteLine("对齐一下试试");
             new _03Builder().Run();
             new _04Prototype().Run();
 
