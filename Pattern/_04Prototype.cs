@@ -5,7 +5,7 @@ namespace Pattern
     {
         public void Run()
         {
-            Console.WriteLine("03.[ 原型 ].Prototype");
+            Console.WriteLine("04.[ 原型 ].Prototype");
 
             var sheep = new Sheep { Name = "AAA", Birthday = "111" };
             Console.WriteLine(sheep.GetHashCode());

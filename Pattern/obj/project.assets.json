@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
+    ".NETCoreApp,Version=v5.0": {
       "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
@@ -62,7 +62,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
+    ".NETCoreApp,Version=v5.0": [
       "Newtonsoft.Json >= 12.0.3",
       "testclasslib >= 1.0.0"
     ]
@@ -89,7 +89,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
@@ -98,7 +98,7 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
           "projectReferences": {
             "C:\\Xiong Program\\CSharpObject\\学习项目\\23种常用设计模式VsCode\\testclasslib\\testclasslib.csproj": {
               "projectPath": "C:\\Xiong Program\\CSharpObject\\学习项目\\23种常用设计模式VsCode\\testclasslib\\testclasslib.csproj"
@@ -113,7 +113,7 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
+      "net5.0": {
         "dependencies": {
           "Newtonsoft.Json": {
             "target": "Package",
@@ -135,7 +135,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.3.20216.6\\RuntimeIdentifierGraph.json"
       }
     }
   }
