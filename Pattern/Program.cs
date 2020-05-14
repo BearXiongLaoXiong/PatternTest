@@ -21,6 +21,9 @@ namespace Pattern
             new _03Builder().Run();
             new _04Prototype().Run();
 
+            new _05Adapter().Run();
+            new _12Proxy().Run();
+
         }
     }
 }
