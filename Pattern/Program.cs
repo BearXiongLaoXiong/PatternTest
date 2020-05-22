@@ -9,6 +9,8 @@ dotnet new console -n myPro.App
 dotnet sln add myPro.App
 dotnet new classlib -n Infrastructur
 dotnet add myPro.App reference Infrastructure
+
+选择nuget package manager : add package
 */
 namespace Pattern
 {

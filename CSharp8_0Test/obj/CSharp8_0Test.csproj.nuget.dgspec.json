@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Xiong Program\\CSharpObject\\学习项目\\23种常用设计模式VsCode\\testclasslib\\testclasslib.csproj": {}
+    "C:\\Xiong Program\\CSharpObject\\学习项目\\23种常用设计模式VsCode\\CSharp8_0Test\\CSharp8_0Test.csproj": {}
   },
   "projects": {
-    "C:\\Xiong Program\\CSharpObject\\学习项目\\23种常用设计模式VsCode\\testclasslib\\testclasslib.csproj": {
+    "C:\\Xiong Program\\CSharpObject\\学习项目\\23种常用设计模式VsCode\\CSharp8_0Test\\CSharp8_0Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Xiong Program\\CSharpObject\\学习项目\\23种常用设计模式VsCode\\testclasslib\\testclasslib.csproj",
-        "projectName": "testclasslib",
-        "projectPath": "C:\\Xiong Program\\CSharpObject\\学习项目\\23种常用设计模式VsCode\\testclasslib\\testclasslib.csproj",
+        "projectUniqueName": "C:\\Xiong Program\\CSharpObject\\学习项目\\23种常用设计模式VsCode\\CSharp8_0Test\\CSharp8_0Test.csproj",
+        "projectName": "CSharp8_0Test",
+        "projectPath": "C:\\Xiong Program\\CSharpObject\\学习项目\\23种常用设计模式VsCode\\CSharp8_0Test\\CSharp8_0Test.csproj",
         "packagesPath": "C:\\Users\\sh179\\.nuget\\packages\\",
-        "outputPath": "C:\\Xiong Program\\CSharpObject\\学习项目\\23种常用设计模式VsCode\\testclasslib\\obj\\",
+        "outputPath": "C:\\Xiong Program\\CSharpObject\\学习项目\\23种常用设计模式VsCode\\CSharp8_0Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
@@ -31,7 +31,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "net5.0": {
             "projectReferences": {}
           }
         },
@@ -42,15 +42,7 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
-            }
-          },
+        "net5.0": {
           "imports": [
             "net461",
             "net462",
@@ -61,6 +53,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.4.20258.7\\RuntimeIdentifierGraph.json"
         }
       }
